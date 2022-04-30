@@ -1,4 +1,4 @@
-# Covid19-Cases-and-Rates
+# COVID-19-Cases-and-Rates
 Huating Sun \
 GEOG 458 Section AB \
 Lab 3: Web Map Application \
